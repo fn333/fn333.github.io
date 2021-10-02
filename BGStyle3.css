@@ -22,17 +22,7 @@
             background-size: 70px ,150px,cover;
                     
         }
-.logo{
-        background-image:url(WebsiteImage/tittle.png);
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        background-position: top left;
-        background-size: 150px;
-}
 
-.invisibleLink {
-        display: block;
-}
 
     </style>
 
