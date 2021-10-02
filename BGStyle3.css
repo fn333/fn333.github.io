@@ -11,11 +11,11 @@
                 no-repeat;
             background-attachment: fixed,
                 fixed;
-            background-position: center,
-                bottom center;
+            background-position: bottom center,
+                center;
                 
                 
-            background-size: 100% 100%,cover;
+            background-size: contain,cover;
                     
         }
 
