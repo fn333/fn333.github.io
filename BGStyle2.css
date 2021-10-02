@@ -1,4 +1,6 @@
-.bg {
-  
+<style>
+.fixed {
+  background: url("WebsiteImage/BG.jpg");
   background-attachment: fixed;
 }
+</style>
