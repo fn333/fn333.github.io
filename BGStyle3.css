@@ -4,10 +4,14 @@
         }
 
         body {
-            background-image: url(WebsiteImage/BG.jpg);
+            background-image: url(WebsiteImage/Pink_BG.jpg);
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-position: center;
             background-size: cover;
         }
+
+
     </style>
+
+
