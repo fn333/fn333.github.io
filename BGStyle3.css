@@ -4,17 +4,18 @@
         }
 
         body {
-            background-image: url(WebsiteImage/Pink_BG.jpg),
-                              url(WebsiteImage/HYUNE_MOHAE.png);    
+            background-image:url(WebsiteImage/HYUNE_MOHAE.png), 
+                    url(WebsiteImage/Pink_BG.jpg);
+                                 
             background-repeat: no-repeat,
                 no-repeat;
             background-attachment: fixed,
                 fixed;
-            background-position: center,
-                bottom;
+            background-position: bottom,
+                center;
                 
                 
-            background-size: cover,100%;
+            background-size: 100%,cover;
                     
         }
 
