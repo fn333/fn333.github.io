@@ -1,3 +1,7 @@
+<div class="logo">
+    <a href="https://fn333.github.io" class="invisibleLink"></a>
+</div>
+
 <style>
         html {
             weight: 100%;
@@ -5,24 +9,34 @@
 
         body {
             background-image:url(WebsiteImage/HYUNE_MOHAE.png), 
-                    url(WebsiteImage/tittle.png),
+                    
                     url(WebsiteImage/Pink_BG.jpg);
                                  
             background-repeat: no-repeat,
-                no-repeat,
+                
                 no-repeat;
             background-attachment: fixed,
-                scroll,
+                
                 fixed;
             background-position: bottom center,
-                top left,
+                
                 center;
                 
                 
             background-size: 70px ,150px,cover;
                     
         }
+.logo{
+        background-image:url(WebsiteImage/tittle.png);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top left;
+        background-size: 150px;
+}
 
+.invisibleLink {
+        display: block;
+}
 
     </style>
 
