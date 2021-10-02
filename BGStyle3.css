@@ -6,11 +6,11 @@
         body {
             background-image: url(WebsiteImage/Pink_BG.jpg);
                               url(WebsiteImage/@HYUNE_MOHAE.png);    
-            background-repeat: no-repeat;
+            background-repeat: no-repeat,
                 no-repeat;
-            background-attachment: fixed;
+            background-attachment: fixed,
                 fixed;
-            background-position: center;
+            background-position: center,
                 bottom;
                 
                 
